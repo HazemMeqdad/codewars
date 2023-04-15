@@ -33,4 +33,5 @@
 
 *test.cpp
 test*.cpp
+test*.*
 .vscode
