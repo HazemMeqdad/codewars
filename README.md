@@ -43,6 +43,7 @@ Number | Name | Link | Languages | Solution
 --- | --- | --- | --- | ---
 1 | Gap in Primes | [link](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4) | c++ | [solution](./5%20Kyu/Gap_in_Primes.cpp)
 2 | Pick peaks | [link](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7) | c++ | [solution](./5%20Kyu/Pick_peaks.cpp)
+3 | scramble | [link](https://www.codewars.com/kata/55c04b4cc56a697bb0000048) | c++ | [solution](./5%20Kyu/scramble.cpp)
 
 
 
